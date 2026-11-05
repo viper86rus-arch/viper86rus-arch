@@ -29,7 +29,7 @@
 | ⚡ **[Async_TCP_Scanner](https://github.com/viper86rus-arch/Async_TCP_Scanner)** | Python 3, `asyncio`, Socket API, Zero-Pip | Асинхронный сканер TCP-портов на Single-Thread Event Loop. Двухфазный захват баннеров служб (SSH/HTTP), контроль дескрипторов семафором, экспорт с таймингами. |
 | 🌐 **[Enterprise_Web_Scraper](https://github.com/viper86rus-arch/Enterprise_Web_Scraper)** | Python 3, Playwright, FastAPI, SQLite | Парсинг динамических страниц в Stealth-режиме с блокировкой медиа-трафика. Web UI Dashboard для операторов, неблокирующий запуск и стриминг логов по WebSockets. |
 | 🤖 **[Telegram_Commercial_Bot](https://github.com/viper86rus-arch/Telegram_Commercial_Bot)** | Python 3, Telegram Bot API, Vector PDF (Zero-Pip) | Платформа продаж под ключ. Интерактивный расчёт смет, векторный генератор A4 PDF со штампом цифровой подписи (63-ФЗ), эквайринг, микро-CRM на SQLite. |
-| 🛍️ **[Telegram_Commerce_MiniApp](https://github.com/viper86rus-arch/Telegram_Commerce_MiniApp)** | Python 3, Telegram WebApp SDK, Zero-Pip | Полнофункциональный интернет-магазин внутри Telegram (TMA). Витрина, корзина, оформление заказов, транзакционная БД SQLite, нативный MainButton и чеки. |
+| 🛍️ **[Telegram_Commerce_MiniApp](https://github.com/viper86rus-arch/Telegram_Commerce_MiniApp)** <br> [![Live Demo](https://img.shields.io/badge/Live_Demo-Interactive_App-0088cc.svg?logo=telegram&logoColor=white)](https://viper86rus-arch.github.io/Telegram_Commerce_MiniApp/) | Python 3, Telegram WebApp SDK, Zero-Pip | Полнофункциональный интернет-магазин внутри Telegram (TMA). Витрина, корзина, оформление заказов, транзакционная БД SQLite, нативный MainButton и чеки. **[Открыть интерактивное демо](https://viper86rus-arch.github.io/Telegram_Commerce_MiniApp/)**. |
 
 ---
 
