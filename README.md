@@ -28,7 +28,7 @@
 | 🎯 **[Wildberries_Fast_Scraper](https://github.com/viper86rus-arch/Wildberries_Fast_Scraper)** | Python 3, Direct HTTP API, Zero-Pip | Высокоскоростной парсер каталога WB. Автокалькуляция цен со скидками СПП (WB Кошелёк), складская аналитика по РФ, экспорт в Excel/JSON, фильтрация и демо-режим. |
 | ⚡ **[Async_TCP_Scanner](https://github.com/viper86rus-arch/Async_TCP_Scanner)** | Python 3, `asyncio`, Socket API, Zero-Pip | Асинхронный сканер TCP-портов на Single-Thread Event Loop. Двухфазный захват баннеров служб (SSH/HTTP), контроль дескрипторов семафором, экспорт с таймингами. |
 | 🌐 **[Enterprise_Web_Scraper](https://github.com/viper86rus-arch/Enterprise_Web_Scraper)** | Python 3, Playwright, FastAPI, SQLite | Парсинг динамических страниц в Stealth-режиме с блокировкой медиа-трафика. Web UI Dashboard для операторов, неблокирующий запуск и стриминг логов по WebSockets. |
-| 🤖 **[Telegram_Commercial_Bot](https://github.com/viper86rus-arch/Telegram_Commercial_Bot)** | Python 3, Telegram Bot API, ReportLab | Платформа продаж под ключ. Интерактивный расчёт смет, векторный генератор A4 PDF со штампом цифровой подписи (63-ФЗ), эквайринг, микро-CRM на SQLite. |
+| 🤖 **[Telegram_Commercial_Bot](https://github.com/viper86rus-arch/Telegram_Commercial_Bot)** | Python 3, Telegram Bot API, Vector PDF (Zero-Pip) | Платформа продаж под ключ. Интерактивный расчёт смет, векторный генератор A4 PDF со штампом цифровой подписи (63-ФЗ), эквайринг, микро-CRM на SQLite. |
 | 🛍️ **[Telegram_Commerce_MiniApp](https://github.com/viper86rus-arch/Telegram_Commerce_MiniApp)** | Python 3, Telegram WebApp SDK, Zero-Pip | Полнофункциональный интернет-магазин внутри Telegram (TMA). Витрина, корзина, оформление заказов, транзакционная БД SQLite, нативный MainButton и чеки. |
 
 ---
@@ -38,7 +38,7 @@
 * **Язык и ядро:** Python 3.9 – 3.12 (`asyncio`, `multiprocessing`, `threading`, `dataclasses`, `typing`).
 * **Парсинг и сетевой I/O:** Reverse-Engineering мобильных/внутренних API, Playwright, HTTP/SOCKS5 проксирование с авторизацией, эмуляция отпечатков (Anti-Detect).
 * **Базы данных и экспорт:** SQLite3 (неблокирующий пул через потоки), PostgreSQL, OpenPyXL, CSV `UTF-8-SIG`.
-* **Интерфейсы и интеграции:** Telegram Bot API (Long Polling, Telegram Payments, Custom UI), FastAPI, REST API, генерация документов PDF (ReportLab / низкоуровневый PDF Stream).
+* **Интерфейсы и интеграции:** Telegram Bot API (Long Polling, Telegram Payments, Custom UI), FastAPI, REST API, генерация документов PDF (векторный PDF 1.4 Stream / Zero-Pip).
 * **Среды развёртывания:** Linux (Ubuntu, Debian, RHEL), macOS, Windows Server.
 
 ---
@@ -48,7 +48,7 @@
 Открыт к заказам на разработку парсеров маркетплейсов, Telegram-ботов с онлайн-оплатой, сетевых утилит и скриптов автоматизации под ключ.
 
 * **GitHub:** [viper86rus-arch](https://github.com/viper86rus-arch)
-* **Telegram для связи:** [@V1PER86RUS](https://t.me/V1PER86RUS)
+* **Связь и заказы:** [V1PER (viper86rus-arch)](https://github.com/viper86rus-arch)
 * **Формат работы:** удалённо, чёткие спринты по согласованному ТЗ, соблюдение сроков и гарантия на код.
 
 ---
