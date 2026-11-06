@@ -53,7 +53,7 @@
 
 * **Студия:** V1PER IT Solutions
 * **GitHub:** [viper86rus-arch](https://github.com/viper86rus-arch)
-* **Разработчик:** [V1PER (viper86rus-arch)](https://github.com/viper86rus-arch)
+* **Разработчик:** V1PER ([`viper86rus-arch`](https://github.com/viper86rus-arch))
 * **Формат работы:** удалённо, чёткие спринты по согласованному ТЗ, соблюдение сроков и гарантия на код.
 
 ---
